@@ -1,0 +1,361 @@
+.search {
+  background-color: #772B90;
+  height: 50px;
+}
+
+.search p {
+  position: relative;
+  left: 300px;
+  bottom: 40px;
+  color: #50205F;
+  font-size: 20px;
+}
+
+.yahoo {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  left: 230px;
+  top: 10px;
+}
+
+.other_stuff {
+  position: relative;
+  left: 1000px;
+  top: 10px;
+}
+
+input {
+  -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    background-color: #772B90;
+    font-size: 20px;
+    position: relative;
+    bottom: 8px;
+    border: none;
+}
+
+.stories {
+  background-color: #772B90;
+  width: 400px;
+  height: 30px;
+  position: relative;
+  bottom: 3px;
+  left: 200px;
+  word-spacing: 20px;
+}
+
+.stories p {
+  text-align: center;
+  position: relative;
+  top: 5px;
+  color: #A57BB6
+}
+
+.stories p:hover {
+  color: #FFFFFF;
+}
+
+.location {
+  background-color: #F3EEF7;
+  width: 200px;
+  height: 30px;
+  position: relative;
+  left: 600px;
+  bottom: 50px;
+}
+
+.location p {
+  text-align: center;
+  position: relative;
+  top: 5px;
+  color: #73248D;
+}
+
+.stocks {
+  background-color: #F3EEF7;
+  width: 395px;
+  height: 30px;
+  position: relative;
+  left: 805px;
+  bottom: 96px;
+  color: #73248D;
+}
+
+.stocks .nasdaq {
+  position: relative;
+  left: 10px;
+  top: 3px;
+}
+
+.stocks .appl {
+  position: relative;
+  left: 230px;
+  bottom: 34px;
+}
+
+.oscars {
+  position: relative;
+  width: 1000px;
+  left: 200px;
+  bottom: 95px;
+}
+
+.breaking {
+  width: 1000px;
+  background-color: #772B90;
+  height: 80px;
+  position: relative;
+  left: 200px;
+  bottom: 200px;
+}
+
+.breaking p {
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    color: #ffffff
+}
+
+.fake_slideshow #slideshow {
+  width: 180px;
+  height: 100px;
+  position: relative;
+  left: 250px;
+  bottom: 200px;
+}
+
+.left_arrow {
+  height: 50px;
+  position: relative;
+  left: 210px;
+  bottom: 280px;
+}
+
+.right_arrow {
+  height: 50px;
+  position: relative;
+  left: 1145px;
+  bottom: 280px;
+}
+
+.bottom_nav {
+  background-color: #838383;
+  width: 500px;
+  height: 40px;
+  position: relative;
+  left: 200px;
+  bottom: 270px;
+}
+
+.bottom_nav p {
+  text-align: center;
+  position: relative;
+  top: 10px;
+  word-spacing: 20px;
+  color: #ffffff
+}
+
+.q4 {
+  background-color: #F3EEF7;
+  width: 500px;
+  position: relative;
+  left: 200px;
+  bottom: 290px;
+}
+
+.q4 p{
+  position: relative;
+  left: 10px;
+}
+
+.purple_heading {
+  color: #772B90;
+  font-size: 25px;
+  position: relative;
+  left: 10px;
+}
+
+.purple_heading a {
+  text-decoration: none;
+}
+
+#motley {
+  color: #BCBCBD;
+}
+
+#sub_heading{
+  color: #838383;
+}
+
+.apple {
+  background-color: #F3EEF7;
+  width: 500px;
+  position: relative;
+  left: 200px;
+  bottom: 310px;
+}
+
+.apple p {
+  position: relative;
+  left: 10px;
+}
+
+.apple a {
+  text-decoration: none;
+}
+
+.joan {
+  background-color: #F3EEF7;
+  width: 500px;
+  position: relative;
+  left: 200px;
+  bottom: 330px;
+}
+
+.rivers {
+  color: #772B90;
+  font-size: 25px;
+  position: relative;
+  left: 10px;
+}
+
+.rivers a {
+  text-decoration: none;
+}
+
+.joan p {
+  position: relative;
+  left: 10px;
+}
+
+.inbox {
+  background-color: #F3EEF7;
+  width: 450px;
+  height: 40px;
+  position: relative;
+  left: 720px;
+  bottom: 770px;
+}
+
+.inbox p {
+  color: #838383;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+
+.dead {
+  position: relative;
+  left: 730px;
+  bottom: 780px;
+}
+
+.dead .pizza {
+  color: #772B90;
+  font-size: 20px;
+}
+
+.pizza a {
+  text-decoration: none;
+}
+
+#date {
+  position: relative;
+  left: 370px;
+  bottom: 75px;
+}
+
+.last_one {
+  position: relative;
+  left: 730px;
+  bottom: 790px;
+  color: #772B90;
+}
+
+.dribble a {
+  text-decoration: none;
+}
+
+.last_one .dribble {
+  font-size: 20px;
+}
+
+.ad {
+  position: relative;
+  left: 710px;
+  bottom: 820px;
+}
+
+.vert .mail {
+  position: relative;
+  left: 150px;
+  bottom: 1840px;
+}
+
+.vert .news {
+  position: relative;
+  left: 115px;
+  bottom: 1810px;
+}
+
+.vert .finance {
+  position: relative;
+  bottom: 1780px;
+  left: 83px;
+}
+
+.vert .sports {
+  position: relative;
+  bottom: 1750px;
+  left: 50px;
+}
+
+.vert .movies {
+  position: relative;
+  bottom: 1710px;
+  left: 18px;
+}
+
+.vert .celeb {
+  position: relative;
+  bottom: 1670px;
+  right: 15px;
+}
+
+.vert .about {
+  position: relative;
+  bottom: 1635px;
+  right: 45px;
+}
+
+.vert .car {
+  position: relative;
+  bottom: 1605px;
+  right: 70px;
+}
+
+.vert .style {
+  position: relative;
+  bottom: 1570px;
+  right: 98px;
+}
+
+.vert .travel {
+  position: relative;
+  bottom: 1535px;
+  right: 130px;
+}
+
+.vert .mingle {
+  position: relative;
+  bottom: 1505px;
+  right: 160px;
+}
+
+.vert .case {
+  position: relative;
+  bottom: 1470px;
+  right: 190px;
+}
